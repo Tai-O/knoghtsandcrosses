@@ -1,0 +1,12 @@
+c:\users\teeot\documents\visual studio 2015\Projects\KnoghtsAndCrosses\KnoghtsAndCrosses\bin\Debug\KnoghtsAndCrosses.exe.config
+c:\users\teeot\documents\visual studio 2015\Projects\KnoghtsAndCrosses\KnoghtsAndCrosses\bin\Debug\KnoghtsAndCrosses.exe
+c:\users\teeot\documents\visual studio 2015\Projects\KnoghtsAndCrosses\KnoghtsAndCrosses\bin\Debug\KnoghtsAndCrosses.pdb
+c:\users\teeot\documents\visual studio 2015\Projects\KnoghtsAndCrosses\KnoghtsAndCrosses\obj\Debug\KnoghtsAndCrosses.csprojResolveAssemblyReference.cache
+c:\users\teeot\documents\visual studio 2015\Projects\KnoghtsAndCrosses\KnoghtsAndCrosses\obj\Debug\KnoghtsAndCrosses.exe
+c:\users\teeot\documents\visual studio 2015\Projects\KnoghtsAndCrosses\KnoghtsAndCrosses\obj\Debug\KnoghtsAndCrosses.pdb
+C:\Users\taiwo.ottun\Downloads\KnoghtsAndCrosses\KnoghtsAndCrosses\bin\Debug\KnoghtsAndCrosses.exe.config
+C:\Users\taiwo.ottun\Downloads\KnoghtsAndCrosses\KnoghtsAndCrosses\obj\Debug\KnoghtsAndCrosses.exe
+C:\Users\taiwo.ottun\Downloads\KnoghtsAndCrosses\KnoghtsAndCrosses\obj\Debug\KnoghtsAndCrosses.pdb
+C:\Users\taiwo.ottun\Downloads\KnoghtsAndCrosses\KnoghtsAndCrosses\bin\Debug\KnoghtsAndCrosses.exe
+C:\Users\taiwo.ottun\Downloads\KnoghtsAndCrosses\KnoghtsAndCrosses\bin\Debug\KnoghtsAndCrosses.pdb
+C:\Users\taiwo.ottun\Downloads\KnoghtsAndCrosses\KnoghtsAndCrosses\obj\Debug\KnoghtsAndCrosses.csprojResolveAssemblyReference.cache

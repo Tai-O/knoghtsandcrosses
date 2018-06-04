@@ -1,0 +1,8 @@
+C:\Users\taiwo.ottun\Downloads\KnoghtsAndCrosses\UnitTest\bin\Debug\UnitTest.dll
+C:\Users\taiwo.ottun\Downloads\KnoghtsAndCrosses\UnitTest\bin\Debug\UnitTest.pdb
+C:\Users\taiwo.ottun\Downloads\KnoghtsAndCrosses\UnitTest\bin\Debug\KnoghtsAndCrosses.exe
+C:\Users\taiwo.ottun\Downloads\KnoghtsAndCrosses\UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\taiwo.ottun\Downloads\KnoghtsAndCrosses\UnitTest\bin\Debug\KnoghtsAndCrosses.pdb
+C:\Users\taiwo.ottun\Downloads\KnoghtsAndCrosses\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\taiwo.ottun\Downloads\KnoghtsAndCrosses\UnitTest\obj\Debug\UnitTest.dll
+C:\Users\taiwo.ottun\Downloads\KnoghtsAndCrosses\UnitTest\obj\Debug\UnitTest.pdb
